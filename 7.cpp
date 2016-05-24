@@ -20,4 +20,6 @@ printf("O numero informado eh impar.");
  
 getch(); 
 
+// Hello darkness my old friend
+
 }
