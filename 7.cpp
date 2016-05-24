@@ -20,5 +20,4 @@ printf("O numero informado eh impar.");
  
 getch(); 
 
-// fada fada querida
 }
